@@ -118,10 +118,11 @@ particlesJS("particles-js", {
   
   setTimeout(function() {
     $(".element0").typed({
-      strings: ["Engineer", "Programmer", "Developer", "Leader", "Enthusiast", "< Engineer-Programmer-Developer-Leader-Enthusiast />"],
+      // strings: ["Engineer", "Programmer", "Developer", "Leader", "Enthusiast", "< Engineer-Programmer-Developer-Leader-Enthusiast />"],
+      strings: ["Engineer", "Programmer", "Developer", "Leader", "Open Source Enthusiast"],
       typeSpeed: 30, // typing speed
       backDelay: 750, // pause before backspacing
-      loop: false, // loop on or off (true or false)
+      loop: true, // loop on or off (true or false)
       loopCount: false, // number of loops, false = infinite
       smartBackspace: true,
       showCursor: true,
