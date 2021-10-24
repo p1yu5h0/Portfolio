@@ -15,8 +15,19 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    background: linear-gradient(41deg,#3d45b3,#eb4f6f) ,url('img/2.jpg');
-    /*background-image: url("https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjM582sp_fUAhVBrI8KHaGLAqIQjRwIBw&url=http%3A%2F%2Fwww.wallpapersbyte.com%2Fnature%2Fdownload-hd-mountains-night-sky-blurred-stars-light-show-wallpaper%2F&psig=AFQjCNGMAmlL0wlTqJQQhZwJnhKuwNDGpQ&ust=1499520046141224");*/
+
+    background: linear-gradient(to bottom, #009fff, #ec2f4b);
+    /* background: linear-gradient(to right, #f64f59, #12c2e9, #c471ed); */
+    /* background: linear-gradient(to right, #c6ffdd, #fbd786, #f7797d); */
+    /* background: linear-gradient(to right, #e55d87, #3cc1ee); */
+    /* background: linear-gradient(to right, #3d7eaa, #ffe47a); */
+    /* background: linear-gradient(to right, #feac5e, #c779d0, #4bc0c8); */
+    /* background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); insta */
+
+    /* background: linear-gradient(41deg,#fc00ff,#00dbde) ,url('img/2.jpg'); */
+    /* background: linear-gradient(41deg,#00C9FF,#92FE9D) ,url('img/2.jpg'); */
+    /* background: linear-gradient(41deg,#3d45b3,#eb4f6f) ,url('img/2.jpg'); */
+    /* background-image: url("https://www.google.co.in/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjM582sp_fUAhVBrI8KHaGLAqIQjRwIBw&url=http%3A%2F%2Fwww.wallpapersbyte.com%2Fnature%2Fdownload-hd-mountains-night-sky-blurred-stars-light-show-wallpaper%2F&psig=AFQjCNGMAmlL0wlTqJQQhZwJnhKuwNDGpQ&ust=1499520046141224"); */
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
